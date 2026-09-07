@@ -1,2 +1,4 @@
 secrets.txt
 *.log
+ *.temp
+red.temp
