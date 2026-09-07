@@ -8,3 +8,4 @@ direct changes from the github via web
 
 am learning git and Ml as part of my new role
  goal:get comfortable with git branching and prs
+I need to finish all the assingments today
